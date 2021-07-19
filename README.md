@@ -1,4 +1,4 @@
-# ProjectGrenery- Machien Learning Project By NSU Wheatstone
+# ProjectGrenery- CSE445 Machine Learning Course Project By NSU Wheatstone
 
 ## This project is a part of my first ever Machine Learning Course Project back in 2017. 
 
