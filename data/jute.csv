@@ -1,0 +1,735 @@
+Crop Name,Area Name,Area of Land in acres,Amount of Production in Tons,Rainfall in MM,Year
+Jute,Bogra ,59005,171955,38,1970
+Jute,Chittagong ,535,1725,67,1970
+Jute,Chittagong H.T. ,350,475,67,1970
+Jute,Comilla ,137550,462170,128,1970
+Jute,Dhaka ,194695,686040,87,1970
+Jute,Dinajpur ,111815,271515,50,1970
+Jute,Faridpur ,239680,668180,89,1970
+Jute,Jessore ,173135,528630,54,1970
+Jute,Khulna ,42520,133115,60,1970
+Jute,Mymensingh ,271025,797580,100,1970
+Jute,Rangpur ,388695,1255935,69,1970
+Jute,Sylhet ,28480,95915,459,1970
+Jute,Bogra ,48380,111010,3,1971
+Jute,Chittagong ,445,1375,22,1971
+Jute,Chittagong H.T. ,540,1470,22,1971
+Jute,Comilla ,130730,384345,15,1971
+Jute,Dhaka ,192590,622465,115,1971
+Jute,Dinajpur ,51100,91705,0,1971
+Jute,Faridpur ,164305,329715,0,1971
+Jute,Jessore ,123000,354040,0,1971
+Jute,Khulna ,23485,57120,12,1971
+Jute,Mymensingh ,171585,383905,0,1971
+Jute,Rajshahi ,66875,138360,0,1971
+Jute,Rangpur ,308640,761010,0,1971
+Jute,Sylhet ,23150,56950,24,1971
+Jute,Bogra ,46925,119825,51,1972
+Jute,Chittagong ,440,1165,34,1972
+Jute,Chittagong H.T. ,955,1875,34,1972
+Jute,Comilla ,155125,530530,128,1972
+Jute,Dhaka ,187440,604730,200,1972
+Jute,Dinajpur ,79240,149075,1,1972
+Jute,Faridpur ,241880,806030,145,1972
+Jute,Jessore ,152270,479795,22,1972
+Jute,Khulna ,33880,86710,62,1972
+Jute,Mymensingh ,303180,887190,84,1972
+Jute,Rajshahi ,74320,208940,36,1972
+Jute,Rangpur ,393075,1108195,61,1972
+Jute,Sylhet ,21055,50530,313,1972
+Jute,Bogra ,62110,166375,121,1973
+Jute,Chittagong ,10,25,204,1973
+Jute,Chittagong H.T. ,1060,2585,204,1973
+Jute,Comilla ,110940,389070,190,1973
+Jute,Dhaka ,175200,503630,261,1973
+Jute,Faridpur ,273125,714630,259,1973
+Jute,Jessore ,203765,636805,123,1973
+Jute,Khulna ,46320,157100,132,1973
+Jute,Mymensingh ,277750,712350,133,1973
+Jute,Patuakhali ,1240,2220,0,1973
+Jute,Rajshahi ,89430,247610,77,1973
+Jute,Rangpur ,390030,1109665,141,1973
+Jute,Bogra ,16675,35560,147,1974
+Jute,Chittagong ,300,795,187,1974
+Jute,Chittagong H.T. ,595,1415,187,1974
+Jute,Comilla ,80840,232820,174,1974
+Jute,Faridpur ,156205,350630,177,1974
+Jute,Jessore ,107565,343200,119,1974
+Jute,Khulna ,28190,66020,171,1974
+Jute,Mymensingh ,213290,523100,0,1974
+Jute,Noakhali ,11820,25530,182,1974
+Jute,Rajshahi ,44200,107185,64,1974
+Jute,Sylhet ,15140,46175,327,1974
+Jute,Bogra ,33490,91375,100,1975
+Jute,Chittagong ,305,770,105,1975
+Jute,Chittagong H.T. ,695,1865,105,1975
+Jute,Comilla ,71745,263975,95,1975
+Jute,Dhaka ,95395,350630,143,1975
+Jute,Faridpur ,114275,383355,123,1975
+Jute,Jessore ,68890,233575,50,1975
+Jute,Mymensingh ,180785,553960,4,1975
+Jute,Noakhali ,10870,31910,71,1975
+Jute,Patuakhali ,1105,1935,62,1975
+Jute,Rajshahi ,41715,26820,59,1975
+Jute,Rangpur ,283565,796305,198,1975
+Jute,Sylhet ,13335,27285,295,1975
+Jute,Bogra ,45690,115265,75,1976
+Jute,Chittagong ,305,770,58,1976
+Jute,Chittagong H.T. ,550,1300,58,1976
+Jute,Comilla ,85175,246155,120,1976
+Jute,Dhaka ,140460,523270,203,1976
+Jute,Faridpur ,134990,510850,169,1976
+Jute,Jessore ,143470,460430,77,1976
+Jute,Khulna ,33150,97625,116,1976
+Jute,Mymensingh ,230850,635510,107,1976
+Jute,Rajshahi ,52455,150595,83,1976
+Jute,Rangpur ,322825,966725,107,1976
+Jute,Sylhet ,12220,24320,286,1976
+Jute,Bogra ,48780,130433,0,1977
+Jute,Chittagong ,190,503,230,1977
+Jute,Chittagong H.T. ,480,1134,230,1977
+Jute,Comilla ,80455,867915,253,1977
+Jute,Dhaka ,153155,566686,236,1977
+Jute,Faridpur ,173910,537371,146,1977
+Jute,Jessore ,175985,544843,114,1977
+Jute,Khulna ,44665,114835,134,1977
+Jute,Mymensingh ,267540,748222,352,1977
+Jute,Noakhali ,9500,20710,319,1977
+Jute,Patuakhali ,1200,1713,177,1977
+Jute,Rajshahi ,63185,186289,157,1977
+Jute,Rangpur ,334025,1042640,153,1977
+Jute,Sylhet ,5200,5200,426,1977
+Jute,Bogra ,60575,181555,185,1978
+Jute,Chittagong ,315,727,140,1978
+Jute,Chittagong H.T. ,480,1197,140,1978
+Jute,Dhaka ,167250,628470,222,1978
+Jute,Faridpur ,194195,627195,89,1978
+Jute,Khulna ,51775,161339,109,1978
+Jute,Mymensingh ,268810,773120,190,1978
+Jute,Noakhali ,19040,57120,230,1978
+Jute,Patuakhali ,1055,1340,269,1978
+Jute,Rajshahi ,64315,181982,86,1978
+Jute,Rangpur ,370100,1250675,149,1978
+Jute,Sylhet ,8015,16030,347,1978
+Jute,Barisal ,9130,16045,269,1981
+Jute,Bogra ,52770,177300,151,1981
+Jute,Chittagonj ,320,620,250,1981
+Jute,Comilla ,79060,285405,318,1981
+Jute,Dhaka ,128770,452640,218,1981
+Jute,Dinajpur ,47485,166130,224,1981
+Jute,Faridpur ,152210,427975,253,1981
+Jute,Jessore ,161295,510705,190,1981
+Jute,Khulna ,24200,72100,268,1981
+Jute,Mymensingh ,117035,393455,233,1981
+Jute,Noakhali ,5935,19405,361,1981
+Jute,Patuakhali ,1095,1820,245,1981
+Jute,Rajshahi ,29160,100290,185,1981
+Jute,Rangamati ,425,970,191,1981
+Jute,Rangpur ,272740,948240,194,1981
+Jute,Sylhet ,8885,28875,510,1981
+Jute,Barisal ,7185,12405,87,1982
+Jute,Bogra ,48425,167045,67,1982
+Jute,Chittagonj ,180,385,80,1982
+Jute,Comilla ,75450,275390,199,1982
+Jute,Dhaka ,121630,424715,113,1982
+Jute,Dinajpur ,45095,150990,73,1982
+Jute,Faridpur ,168000,485200,135,1982
+Jute,Jessore ,166630,565155,116,1982
+Jute,Khulna ,28855,100735,63,1982
+Jute,Mymensingh ,106540,366615,155,1982
+Jute,Noakhali ,3980,12735,192,1982
+Jute,Patuakhali ,1080,1675,77,1982
+Jute,Rajshahi ,39610,142410,87,1982
+Jute,Rangamati ,250,530,62,1982
+Jute,Rangpur ,269615,988000,68,1982
+Jute,Sylhet ,7085,16650,440,1982
+Jute,Barisal ,6970,13380,143,1983
+Jute,Bogra ,36405,121210,139,1983
+Jute,Chittagonj ,145,310,173,1983
+Jute,Comilla ,72455,292720,160,1983
+Jute,Dhaka ,116205,425560,268,1983
+Jute,Dinajpur ,42690,142855,113,1983
+Jute,Faridpur ,174165,585160,193,1983
+Jute,Jessore ,170555,571730,164,1983
+Jute,Khulna ,31515,122320,186,1983
+Jute,Mymensingh ,108435,432370,61,1983
+Jute,Noakhali ,3980,10745,233,1983
+Jute,Patuakhali ,1125,1820,416,1983
+Jute,Rajshahi ,47710,162130,53,1983
+Jute,Rangamati ,250,585,246,1983
+Jute,Rangpur ,275325,1029050,120,1983
+Jute,Sylhet ,5380,11515,489,1983
+Jute,Barisal ,6690,11715,129,1984
+Jute,Bogra ,41250,119715,147,1984
+Jute,Chittagonj ,140,240,184,1984
+Jute,Comilla ,75345,286310,244,1984
+Jute,Dhaka ,131390,437190,279,1984
+Jute,Dinajpur ,61015,179345,117,1984
+Jute,Faridpur ,207775,518470,202,1984
+Jute,Jessore ,187125,504520,108,1984
+Jute,Khulna ,48740,170390,108,1984
+Jute,Mymensingh ,112300,380850,173,1984
+Jute,Noakhali ,3700,9990,205,1984
+Jute,Patuakhali ,990,1535,95,1984
+Jute,Rajshahi ,63170,189510,35,1984
+Jute,Rangamati ,135,310,223,1984
+Jute,Rangpur ,360360,1113100,226,1984
+Jute,Sylhet ,4810,10100,417,1984
+Jute,Barisal ,3663,6616,112,1985
+Jute,Bogra ,71244,221192,109,1985
+Jute,Chittagonj ,9,9,247,1985
+Jute,Comilla ,81295,329185,176,1985
+Jute,Dhaka ,144651,510765,224,1985
+Jute,Dinajpur ,45695,137870,172,1985
+Jute,Faridpur ,148180,483907,193,1985
+Jute,Jessore ,148118,556603,74,1985
+Jute,Khulna ,36909,123798,151,1985
+Jute,Mymensingh ,134746,445273,121,1985
+Jute,Noakhali ,3569,9971,77,1985
+Jute,Patuakhali ,666,1069,88,1985
+Jute,Rajshahi ,93491,299361,91,1985
+Jute,Rangamati ,289,696,211,1985
+Jute,Rangpur ,326481,1028664,372,1985
+Jute,Sylhet ,10757,28968,97,1985
+Jute,Barisal ,6229,11989,113,1986
+Jute,Bogra ,40771,130106,107,1986
+Jute,Chittagonj ,11,18,158,1986
+Jute,Comilla ,103856,449483,154,1986
+Jute,Dhaka ,122693,429457,81,1986
+Jute,Dinajpur ,58018,178779,138,1986
+Jute,Faridpur ,152328,504326,155,1986
+Jute,Jessore ,117494,430005,199,1986
+Jute,Khulna ,32288,110442,78,1986
+Jute,Mymensingh ,111586,416177,64,1986
+Jute,Noakhali ,2317,5453,133,1986
+Jute,Patuakhali ,834,1439,100,1986
+Jute,Rajshahi ,75616,252610,124,1986
+Jute,Rangamati ,74,191,215,1986
+Jute,Rangpur ,297560,1065277,85,1986
+Jute,Sylhet ,6218,17486,109,1986
+Jute,Barisal ,8870,15630,143,1987
+Jute,Bogra ,24840,96355,125,1987
+Jute,Chittagonj ,53045,223850,124,1987
+Jute,Comilla ,20,75,107,1987
+Jute,Dhaka ,111195,382680,100,1987
+Jute,Dinajpur ,79960,252865,207,1987
+Jute,Faridpur ,152745,526970,92,1987
+Jute,Jessore ,148285,608440,138,1987
+Jute,Khulna ,18155,75245,148,1987
+Jute,Mymensingh ,86415,369400,63,1987
+Jute,Noakhali ,3060,6760,101,1987
+Jute,Patuakhali ,1230,2090,196,1987
+Jute,Rajshahi ,57700,183145,99,1987
+Jute,Rangamati ,155,380,269,1987
+Jute,Rangpur ,260045,926255,137,1987
+Jute,Sylhet ,2830,8715,185,1987
+Jute,Tangail ,71990,261295,166,1987
+Jute,Barisal ,7960,238250,217,1988
+Jute,Bogra ,43950,1755,171,1988
+Jute,Chittagonj ,0,0,290,1988
+Jute,Comilla ,52435,256670,98,1988
+Jute,Dhaka ,119975,178385,247,1988
+Jute,Dinajpur ,71820,171490,208,1988
+Jute,Faridpur ,154590,349485,179,1988
+Jute,Jessore ,121835,26800,314,1988
+Jute,Khulna ,26680,458650,125,1988
+Jute,Mymensingh ,65100,160300,94,1988
+Jute,Noakhali ,4320,7980,125,1988
+Jute,Patuakhali ,1125,298565,200,1988
+Jute,Rajshahi ,62055,189885,162,1988
+Jute,Rangamati ,125,250,531,1988
+Jute,Rangpur ,266230,905215,154,1988
+Jute,Sylhet ,965,2510,85,1988
+Jute,Tangail ,32045,223645,44,1988
+Jute,Barisal ,8860,27120,101,1990
+Jute,Bogra ,77340,314290,90,1990
+Jute,Chittagonj ,0,0,104,1990
+Jute,Comilla ,121540,471630,136,1990
+Jute,Dhaka ,207970,708220,131,1990
+Jute,Dinajpur ,112290,296310,122,1990
+Jute,Faridpur ,323330,1116820,79,1990
+Jute,Jessore ,256120,1058110,97,1990
+Jute,Khulna ,52540,227950,98,1990
+Jute,Mymensingh ,107550,381650,77,1990
+Jute,Noakhali ,4480,14530,80,1990
+Jute,Patuakhali ,2140,3060,134,1990
+Jute,Rajshahi ,111720,346960,112,1990
+Jute,Rangamati ,5400,13180,289,1990
+Jute,Rangpur ,603700,2044210,144,1990
+Jute,Sylhet ,5320,15810,94,1990
+Jute,Tangail ,196580,647810,157,1990
+Jute,Barisal ,3880,12140,138,1991
+Jute,Bogra ,32810,131240,313,1991
+Jute,Chittagonj ,0,0,209,1991
+Jute,Comilla ,50280,220730,140,1991
+Jute,Dhaka ,104910,338860,142,1991
+Jute,Dinajpur ,59060,169500,308,1991
+Jute,Faridpur ,190420,666470,90,1991
+Jute,Jessore ,144280,623290,267,1991
+Jute,Khulna ,26430,119990,119,1991
+Jute,Mymensingh ,60460,194680,67,1991
+Jute,Noakhali ,1430,5260,58,1991
+Jute,Patuakhali ,1530,2250,257,1991
+Jute,Rajshahi ,48040,166700,115,1991
+Jute,Rangamati ,70,230,509,1991
+Jute,Rangpur ,323640,1126370,184,1991
+Jute,Sylhet ,1070,3570,69,1991
+Jute,Tangail ,104450,359310,57,1991
+Jute,Barisal ,4850,9890,43,1992
+Jute,Bogra ,29210,117130,55,1992
+Jute,Chittagonj ,0,0,59,1992
+Jute,Comilla ,50160,237760,31,1992
+Jute,Dhaka ,100750,387890,74,1992
+Jute,Dinajpur ,40920,115390,76,1992
+Jute,Faridpur ,179100,773710,75,1992
+Jute,Jessore ,101850,451200,59,1992
+Jute,Khulna ,18340,86200,72,1992
+Jute,Mymensingh ,36920,124790,46,1992
+Jute,Noakhali ,930,3210,65,1992
+Jute,Patuakhali ,1710,2510,57,1992
+Jute,Rajshahi ,37110,132850,111,1992
+Jute,Rangamati ,110,440,282,1992
+Jute,Rangpur ,283200,1062000,64,1992
+Jute,Sylhet ,1560,5270,281,1992
+Jute,Tangail ,97890,379810,113,1992
+Jute,Barisal ,4110,11590,330,1993
+Jute,Bogra ,21770,93180,299,1993
+Jute,Chittagonj ,0,0,252,1993
+Jute,Comilla ,29840,122340,140,1993
+Jute,Dhaka ,86960,307840,127,1993
+Jute,Dinajpur ,43150,119530,364,1993
+Jute,Faridpur ,188950,710450,131,1993
+Jute,Jessore ,126120,596550,192,1993
+Jute,Khulna ,12230,50270,171,1993
+Jute,Mymensingh ,38430,117210,63,1993
+Jute,Noakhali ,520,1550,136,1993
+Jute,Patuakhali ,1850,2630,272,1993
+Jute,Rajshahi ,44620,158400,94,1993
+Jute,Rangamati ,120,460,315,1993
+Jute,Rangpur ,231710,824890,195,1993
+Jute,Sylhet ,1510,5570,124,1993
+Jute,Tangail ,84710,275310,64,1993
+Jute,Barisal ,4000,13000,221,1994
+Jute,Bogra ,29000,127000,153,1994
+Jute,Chittagonj ,0,0,190,1994
+Jute,Comilla ,40000,169000,65,1994
+Jute,Dhaka ,101000,359000,125,1994
+Jute,Dinajpur ,48000,142000,196,1994
+Jute,Faridpur ,209000,583000,76,1994
+Jute,Jessore ,143000,596000,134,1994
+Jute,Khulna ,19000,80000,160,1994
+Jute,Mymensingh ,53000,192000,50,1994
+Jute,Noakhali ,700,2000,73,1994
+Jute,Patuakhali ,2000,3000,152,1994
+Jute,Rajshahi ,43000,154000,96,1994
+Jute,Rangamati ,100,500,394,1994
+Jute,Rangpur ,276000,1038000,216,1994
+Jute,Sylhet ,2000,8000,54,1994
+Jute,Tangail ,105000,389000,42,1994
+Jute,Barisal ,8280,24960,112,1995
+Jute,Bogra ,26710,117630,148,1995
+Jute,Chittagonj ,0,0,117,1995
+Jute,Comilla ,97660,495380,21,1995
+Jute,Dhaka ,163670,587160,109,1995
+Jute,Dinajpur ,114400,317360,188,1995
+Jute,Faridpur ,435960,1571330,37,1995
+Jute,Jessore ,230940,1043400,132,1995
+Jute,Mymensingh ,62040,203430,36,1995
+Jute,Noakhali ,1780,6030,78,1995
+Jute,Patuakhali ,3850,6060,187,1995
+Jute,Rajshahi ,70020,244500,54,1995
+Jute,Rangamati ,530,2390,194,1995
+Jute,Rangpur ,475510,1613390,86,1995
+Jute,Sylhet ,4230,14590,80,1995
+Jute,Tangail ,155130,583290,98,1995
+Jute,Barisal ,5130,14840,79,1997
+Jute,Bogra ,14060,62760,9,1997
+Jute,Chittagonj ,0,0,118,1997
+Jute,Comilla ,59080,299760,117,1997
+Jute,Dhaka ,94820,366020,82,1997
+Jute,Dinajpur ,70520,204830,3,1997
+Jute,Faridpur ,249230,1096360,20,1997
+Jute,Jessore ,151620,718620,51,1997
+Jute,Khulna ,25920,122880,99,1997
+Jute,Mymensingh ,49520,171870,31,1997
+Jute,Noakhali ,1240,4250,115,1997
+Jute,Patuakhali ,2020,3680,147,1997
+Jute,Rajshahi ,42340,150740,19,1997
+Jute,Rangamati ,440,2260,251,1997
+Jute,Rangpur ,248140,952580,3,1997
+Jute,Sylhet ,2090,7540,111,1997
+Jute,Tangail ,82520,314130,20,1997
+Jute,Barisal ,3210,8860,273,1998
+Jute,Bogra ,14030,58220,26,1998
+Jute,Chittagonj ,0,0,97,1998
+Jute,Comilla ,52130,186620,109,1998
+Jute,Dhaka ,70400,242180,83,1998
+Jute,Dinajpur ,52250,155180,24,1998
+Jute,Faridpur ,201950,842130,69,1998
+Jute,Jessore ,114360,503180,141,1998
+Jute,Khagrachari ,0,0,213,1998
+Jute,Kustia ,73900,356200,68,1998
+Jute,Mymensingh ,40210,129880,150,1998
+Jute,Patuakhali ,1860,3660,93,1998
+Jute,Rajshahi ,40440,140730,137,1998
+Jute,Rangamati ,280,1410,50,1998
+Jute,Rangpur ,246030,880790,239,1998
+Jute,Sylhet ,1520,4230,48,1998
+Jute,Barisal ,3500,6130,0,1999
+Jute,Bogra ,14440,61950,0,1999
+Jute,Chittagonj ,0,0,2,1999
+Jute,Comilla ,29810,111790,0,1999
+Jute,Dhaka ,60150,210530,0,1999
+Jute,Dinajpur ,45160,142710,0,1999
+Jute,Khulna ,17710,81470,0,1999
+Jute,Mymensingh ,34040,119140,1,1999
+Jute,Noakhali ,330,780,41,1999
+Jute,Patuakhali ,910,1740,0,1999
+Jute,Rajshahi ,37050,130420,0,1999
+Jute,Rangamati ,70,340,3,1999
+Jute,Rangpur ,220360,835160,7,1999
+Jute,Sylhet ,1790,6250,49,1999
+Jute,Tangail ,65260,262350,0,1999
+Jute,Barisal ,3730,6190,50,2000
+Jute,Bogra ,13100,61440,76,2000
+Jute,Chittagonj ,0,0,16,2000
+Jute,Comilla ,37690,168850,121,2000
+Jute,Dhaka ,63190,217370,172,2000
+Jute,Dinajpur ,44930,142430,1,2000
+Jute,Faridpur ,197940,799670,31,2000
+Jute,Jessore ,91330,397290,7,2000
+Jute,Khagrachari ,0,0,18,2000
+Jute,Mymensingh ,23270,82380,74,2000
+Jute,Noakhali ,240,560,195,2000
+Jute,Patuakhali ,280,500,15,2000
+Jute,Rajshahi ,36300,134670,27,2000
+Jute,Rangamati ,70,340,112,2000
+Jute,Rangpur ,279850,1147380,3,2000
+Jute,Sylhet ,1820,6150,119,2000
+Jute,Tangail ,62040,253740,59,2000
+Jute,Barisal ,3740,19180,4,2001
+Jute,Bogra ,14550,75380,0,2001
+Jute,Chittagonj ,0,0,1,2001
+Jute,Comilla ,35890,111700,6,2001
+Jute,Dhaka ,62570,218610,33,2001
+Jute,Dinajpur ,42600,119470,0,2001
+Jute,Faridpur ,220920,932680,21,2001
+Jute,jamalpur ,63140,263660,0,2001
+Jute,Jessore ,89990,385970,56,2001
+Jute,Khagrachari ,0,0,21,2001
+Jute,Mymensingh ,21090,62780,16,2001
+Jute,Noakhali ,320,5100,0,2001
+Jute,Patuakhali ,260,250,3,2001
+Jute,Rajshahi ,35420,153510,9,2001
+Jute,Rangamati ,30,160,1,2001
+Jute,Rangpur ,268800,881010,23,2001
+Jute,Sylhet ,1410,3720,42,2001
+Jute,Tangail ,64670,226040,86,2001
+Jute,Barisal ,5480,19180,36,2002
+Jute,Bogra ,15260,75380,13,2002
+Jute,Chittagonj ,0,0,70,2002
+Jute,Comilla ,32950,111700,72,2002
+Jute,Dhaka ,63550,218610,51,2002
+Jute,Dinajpur ,37570,119470,13,2002
+Jute,Faridpur ,228040,932680,56,2002
+Jute,Jessore ,81600,385970,22,2002
+Jute,Khagrachari ,0,0,14,2002
+Jute,Mymensingh ,19930,62780,41,2002
+Jute,Noakhali ,2170,5100,95,2002
+Jute,Patuakhali ,200,250,4,2002
+Jute,Rajshahi ,36990,153510,20,2002
+Jute,Rangamati ,30,160,42,2002
+Jute,Rangpur ,226480,881010,38,2002
+Jute,Sylhet ,1200,3720,78,2002
+Jute,Tangail ,57960,226040,177,2002
+Jute,Barisal ,5670,19330,117,2003
+Jute,Bogra ,15600,72540,72,2003
+Jute,Chittagonj ,0,0,128,2003
+Jute,Comilla ,26190,89830,96,2003
+Jute,Dhaka ,58920,193850,53,2003
+Jute,Dinajpur ,36080,119790,110,2003
+Jute,Faridpur ,224970,1046110,92,2003
+Jute,Jessore ,82050,408610,155,2003
+Jute,Mymensingh ,19630,71060,87,2003
+Jute,Noakhali ,1120,2640,119,2003
+Jute,Patuakhali ,290,410,113,2003
+Jute,Rajshahi ,35990,145400,64,2003
+Jute,Rangamati ,30,130,36,2003
+Jute,Rangpur ,185800,804510,109,2003
+Jute,Sylhet ,4170,13510,170,2003
+Jute,Tangail ,50730,195310,145,2003
+Jute,Barisal ,3890,10114,11,2004
+Jute,Barisal Region ,4245,11035,11,2004
+Jute,Bhola ,35,91,11,2004
+Jute,Bogra ,9917,45420,45,2004
+Jute,Bogra Region ,13255,60675,45,2004
+Jute,Chandpur ,9453,33180,9,2004
+Jute,Comilla ,4283,18460,6,2004
+Jute,Comilla Region ,21123,68852,6,2004
+Jute,Cox's Bazar ,0,0,1,2004
+Jute,Dhaka ,9605,29776,9,2004
+Jute,Dhaka Region ,53944,151259,9,2004
+Jute,Dinajpur ,13325,59030,12,2004
+Jute,Dinajpur Region ,34697,126337,12,2004
+Jute,Faridpur ,85559,446618,6,2004
+Jute,Faridpur Region ,222563,1021994,6,2004
+Jute,Feni ,160,320,0,2004
+Jute,Jessore ,29295,170790,9,2004
+Jute,Jessore Region ,93291,445985,9,2004
+Jute,Khulna ,803,3951,7,2004
+Jute,Khulna Region ,13572,70683,7,2004
+Jute,Mymenshing Region ,18173,63787,13,2004
+Jute,Noakhali ,250,658,0,2004
+Jute,Noakhali Region ,632,1502,0,2004
+Jute,Patuakhali ,227,313,12,2004
+Jute,Patuakhali Region ,243,331,12,2004
+Jute,Rajshahi ,8411,43064,0,2004
+Jute,Rajshahi Region ,25954,106729,0,2004
+Jute,Rangamati Region ,0,0,8,2004
+Jute,Rangpur ,44430,177276,39,2004
+Jute,Rangpur Region ,165630,659459,4,2004
+Jute,Sylhet ,94,281,40,2004
+Jute,Sylhet Region ,2284,5733,40,2004
+Jute,Tangail Region ,46139,156873,6,2004
+Jute,Barisal ,4260,13078,138,2005
+Jute,Barisal Region ,4710,13939,138,2005
+Jute,Bhola ,70,120,106,2005
+Jute,Bogra ,9127,40889,58,2005
+Jute,Bogra Region ,12545,56509,58,2005
+Jute,Brahmanbaria ,9672,37140,122,2005
+Jute,Comilla ,4020,16442,249,2005
+Jute,Comilla Region ,23774,91490,249,2005
+Jute,Cox's Bazar ,0,0,27,2005
+Jute,Dhaka ,10370,45835,155,2005
+Jute,Dhaka Region ,50749,200795,155,2005
+Jute,Dinajpur ,11441,46565,37,2005
+Jute,Dinajpur Region ,34311,124963,37,2005
+Jute,Faridpur ,95595,516213,136,2005
+Jute,Faridpur Region ,258656,1317759,136,2005
+Jute,Feni ,90,225,0,2005
+Jute,Jessore ,37540,203091,129,2005
+Jute,Khulna ,1046,4791,148,2005
+Jute,Khulna Region ,16710,88649,148,2005
+Jute,Madaripur ,42478,223010,61,2005
+Jute,Mymenshing Region ,16650,55611,77,2005
+Jute,Noakhali ,140,529,0,2005
+Jute,Noakhali Region ,540,1876,0,2005
+Jute,Patuakhali ,0,0,139,2005
+Jute,Patuakhali Region ,0,0,139,2005
+Jute,Rajshahi ,9296,54289,104,2005
+Jute,Rajshahi Region ,27080,126771,104,2005
+Jute,Rangamati Region ,0,0,74,2005
+Jute,Rangpur ,34092,162960,61,2005
+Jute,Rangpur Region ,149397,634639,61,2005
+Jute,Satkhira ,15549,83343,120,2005
+Jute,Sylhet ,95,288,388,2005
+Jute,Sylhet Region ,1352,4901,388,2005
+Jute,Tangail Region ,40817,162860,58,2005
+Jute,Barisal ,3900,12051,4,2006
+Jute,Barisal Region ,4295,12912,4,2006
+Jute,Bhola ,55,91,7,2006
+Jute,Bogra ,9260,43615,7,2006
+Jute,Bogra Region ,12835,61454,12,2006
+Jute,Brahmanbaria ,9030,38648,12,2006
+Jute,Chandpur ,8920,32826,0,2006
+Jute,Comilla ,4320,19483,0,2006
+Jute,Comilla Region ,22270,90957,0,2006
+Jute,Cox's Bazar ,0,0,0,2006
+Jute,Dhaka ,11700,45630,0,2006
+Jute,Dinajpur ,11935,49769,1,2006
+Jute,Dinajpur Region ,38035,134973,1,2006
+Jute,Faridpur ,105260,559983,0,2006
+Jute,Faridpur Region ,275145,1396107,0,2006
+Jute,Feni ,0,0,0,2006
+Jute,Jamalpur Region ,44420,176742,1,2006
+Jute,Khulna ,1160,5127,5,2006
+Jute,Madaripur ,49180,239507,0,2006
+Jute,Mymenshing Region ,15600,73476,2,2006
+Jute,Patuakhali ,0,0,1,2006
+Jute,Patuakhali Region ,0,0,1,2006
+Jute,Rajshahi Region ,29595,140671,7,2006
+Jute,Rangamati Region ,0,0,0,2006
+Jute,Rangpur ,24520,116960,2,2006
+Jute,Rangpur Region ,136615,585421,2,2006
+Jute,Satkhira ,16455,88528,24,2006
+Jute,Sylhet ,85,264,16,2006
+Jute,Sylhet Region ,480,1644,16,2006
+Jute,Tangail Region ,43570,180380,0,2006
+Jute,Barisal ,5785,21694,33,2007
+Jute,Barisal Region ,6060,22272,33,2007
+Jute,Bhola ,0,0,27,2007
+Jute,Bogra ,10390,46339,25,2007
+Jute,Bogra Region ,14200,62646,25,2007
+Jute,Chandpur ,8675,30276,40,2007
+Jute,Comilla ,2790,11718,21,2007
+Jute,Comilla Region ,20740,79280,21,2007
+Jute,Cox's Bazar ,0,0,0,2007
+Jute,Dhaka ,8670,29825,11,2007
+Jute,Dhaka Region ,47390,170117,11,2007
+Jute,Dinajpur ,16755,63669,2,2007
+Jute,Dinajpur Region ,46380,161277,2,2007
+Jute,Faridpur ,131720,508439,4,2007
+Jute,Faridpur Region ,339185,137673,4,2007
+Jute,Feni ,0,0,4,2007
+Jute,Jessore ,39280,210148,21,2007
+Jute,Jessore Region ,151545,722722,21,2007
+Jute,Khulna ,1725,8125,14,2007
+Jute,Khulna Region ,19410,87164,14,2007
+Jute,Madaripur ,64490,275372,35,2007
+Jute,Mymenshing Region ,15745,50856,18,2007
+Jute,Noakhali ,0,0,4,2007
+Jute,Noakhali Region ,360,1264,4,2007
+Jute,Patuakhali ,60,276,0,2007
+Jute,Patuakhali Region ,60,276,0,2007
+Jute,Rajshahi ,13580,68579,59,2007
+Jute,Rajshahi Region ,32800,145925,59,2007
+Jute,Rangamati Region ,0,0,32,2007
+Jute,Rangpur ,20420,97608,16,2007
+Jute,Rangpur Region ,112730,494520,16,2007
+Jute,Satkhira ,17175,76601,19,2007
+Jute,Sylhet ,85,281,41,2007
+Jute,Sylhet Region ,475,1593,41,2007
+Jute,Tangail Region ,36280,125166,24,2007
+Jute,Barisal ,5425,18879,22,2008
+Jute,Barisal Region ,5445,18967,22,2008
+Jute,Bhola ,0,0,4,2008
+Jute,Bogra ,8830,39470,22,2008
+Jute,Chandpur ,6590,24713,64,2008
+Jute,Chittagong ,0,0,6,2008
+Jute,Chittagong Region ,0,0,6,2008
+Jute,Comilla ,2530,10778,26,2008
+Jute,Comilla Region ,18765,80630,26,2008
+Jute,Cox's Bazar ,0,0,4,2008
+Jute,Dhaka ,13895,55858,45,2008
+Jute,Dhaka Region ,49875,183343,45,2008
+Jute,Dinajpur ,13560,55732,19,2008
+Jute,Dinajpur Region ,43065,152783,19,2008
+Jute,Faridpur ,131455,573144,31,2008
+Jute,Faridpur Region ,332615,1506596,31,2008
+Jute,Feni ,0,0,30,2008
+Jute,Jessore ,32445,189479,37,2008
+Jute,Jessore Region ,141005,676488,37,2008
+Jute,Khulna ,1780,7903,48,2008
+Jute,Khulna Region ,19115,90574,48,2008
+Jute,Madaripur ,57840,313493,35,2008
+Jute,Mymenshing Region ,11795,37272,96,2008
+Jute,Noakhali ,0,0,30,2008
+Jute,Noakhali Region ,275,985,30,2008
+Jute,Patuakhali ,0,0,2,2008
+Jute,Patuakhali Region ,0,0,2,2008
+Jute,Rajshahi ,14050,75870,0,2008
+Jute,Rajshahi Region ,31200,153417,0,2008
+Jute,Rangamati Region ,0,0,5,2008
+Jute,Rangpur ,16140,81184,49,2008
+Jute,Rangpur Region ,102510,466507,49,2008
+Jute,Satkhira ,16475,78586,16,2008
+Jute,Sylhet ,0,0,165,2008
+Jute,Sylhet Region ,435,1420,165,2008
+Jute,Tangail Region ,39890,163549,55,2008
+Jute,Barisal ,4926,20985,13,2009
+Jute,Barisal Region ,4926,20985,13,2009
+Jute,Bhola ,0,0,6,2009
+Jute,Bogra ,16957,76646,3,2009
+Jute,Bogra Region ,19854,90812,3,2009
+Jute,Chandpur ,6209,23843,5,2009
+Jute,Comilla ,2242,9237,3,2009
+Jute,Comilla Region ,16043,67851,3,2009
+Jute,Cox's Bazar ,0,0,0,2009
+Jute,Dhaka ,14450,63147,43,2009
+Jute,Dhaka Region ,49634,195138,43,2009
+Jute,Dinajpur ,11279,48951,10,2009
+Jute,Dinajpur Region ,41557,162606,10,2009
+Jute,Faridpur ,118932,610121,31,2009
+Jute,Faridpur Region ,306367,1591477,31,2009
+Jute,Feni ,0,0,20,2009
+Jute,Jessore ,33827,194844,33,2009
+Jute,Jessore Region ,139724,793767,33,2009
+Jute,Khulna ,1526,6562,10,2009
+Jute,Khulna Region ,14974,70111,10,2009
+Jute,Madaripur ,55697,324157,9,2009
+Jute,Mymenshing Region ,11912,39786,17,2009
+Jute,Noakhali ,0,0,20,2009
+Jute,Noakhali Region ,196,943,20,2009
+Jute,Patuakhali ,0,0,55,2009
+Jute,Patuakhali Region ,0,0,55,2009
+Jute,Rajshahi ,14149,77254,28,2009
+Jute,Rajshahi Region ,33472,166394,28,2009
+Jute,Rangamati Region ,0,0,1,2009
+Jute,Rangpur ,14473,67878,9,2009
+Jute,Rangpur Region ,94526,433229,9,2009
+Jute,Satkhira ,12664,59394,3,2009
+Jute,Sylhet ,0,0,63,2009
+Jute,Sylhet Region ,318,1086,63,2009
+Jute,Tangail Region ,38276,161142,1,2009
+Jute,Barisal ,9353,31520,1,2010
+Jute,Barisal Region ,10142,34566,1,2010
+Jute,Bhola ,0,0,1,2010
+Jute,Bogra ,43814,193658,0,2010
+Jute,Bogra Region ,48930,219289,0,2010
+Jute,Chandpur ,8984,36655,3,2010
+Jute,Chittagong ,0,0,40,2010
+Jute,Chittagong Region ,0,0,40,2010
+Jute,Comilla ,2820,11421,30,2010
+Jute,Comilla Region ,23273,89364,30,2010
+Jute,Cox's Bazar ,0,0,15,2010
+Jute,Dhaka ,16137,67453,22,2010
+Jute,Dhaka Region ,63919,257868,22,2010
+Jute,Dinajpur ,27120,121498,0,2010
+Jute,Dinajpur Region ,72604,296025,0,2010
+Jute,Faridpur ,183375,891203,0,2010
+Jute,Faridpur Region ,449737,2199902,0,2010
+Jute,Feni ,0,0,6,2010
+Jute,Jessore ,84443,462748,11,2010
+Jute,Jessore Region ,276434,1506769,11,2010
+Jute,Khulna ,8530,38641,14,2010
+Jute,Khulna Region ,38392,191468,14,2010
+Jute,Madaripur ,75593,386280,11,2010
+Jute,Mymenshing Region ,21646,70999,16,2010
+Jute,Noakhali ,80,270,6,2010
+Jute,Noakhali Region ,620,2090,6,2010
+Jute,Patuakhali Region ,0,0,0,2010
+Jute,Rajshahi ,24953,134746,2,2010
+Jute,Rajshahi Region ,67864,363213,2,2010
+Jute,Rangamati Region ,0,0,121,2010
+Jute,Rangpur ,20705,104353,0,2010
+Jute,Rangpur Region ,114397,512133,0,2010
+Jute,Satkhira ,23592,119847,1,2010
+Jute,Sylhet ,0,0,147,2010
+Jute,Sylhet Region ,333,1085,147,2010
+Jute,Tangail Region ,56975,250120,69,2010
+Jute,Barisal ,9648,39846,34,2011
+Jute,Barisal Region ,10460,43086,34,2011
+Jute,Bhola ,0,0,32,2011
+Jute,Bogra ,46830,202306,7,2011
+Jute,Bogra Region ,53720,236343,7,2011
+Jute,Chandpur ,12815,46134,35,2011
+Jute,Chittagong ,0,0,35,2011
+Jute,Chittagong Region ,0,0,35,2011
+Jute,Comilla ,4812,17804,28,2011
+Jute,Comilla Region ,30966,114226,28,2011
+Jute,Cox's Bazar ,0,0,4,2011
+Jute,Dhaka ,15320,58982,20,2011
+Jute,Dhaka Region ,60555,223188,20,2011
+Jute,Dinajpur ,29110,127793,27,2011
+Jute,Dinajpur Region ,77100,336908,27,2011
+Jute,Faridpur ,202786,786810,17,2011
+Jute,Faridpur Region ,491491,1904953,17,2011
+Jute,Feni ,0,0,55,2011
+Jute,Jessore ,84598,355312,34,2011
+Jute,Jessore Region ,286030,1179625,34,2011
+Jute,Khulna ,8833,30916,16,2011
+Jute,Khulna Region ,41897,170949,16,2011
+Jute,Mymenshing Region ,28779,104468,32,2011
+Jute,Noakhali ,0,0,55,2011
+Jute,Noakhali Region ,530,1950,55,2011
+Jute,Patuakhali ,0,0,17,2011
+Jute,Patuakhali Region ,0,0,17,2011
+Jute,Rajshahi ,26320,153972,10,2011
+Jute,Rajshahi Region ,80354,444686,10,2011
+Jute,Rangamati Region ,0,0,49,2011
+Jute,Rangpur ,24700,126464,13,2011
+Jute,Rangpur Region ,125193,584605,13,2011
+Jute,Satkhira ,28764,121672,58,2011
+Jute,Sylhet ,0,0,99,2011
+Jute,Sylhet Region ,390,1374,99,2011
+Jute,Tangail Region ,57780,246721,48,2011
