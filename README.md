@@ -1,4 +1,5 @@
-# ProjectGrenery- Machine Learning Course Project By NSU Wheatstone
+# Greenery-Agricultural Crop Yield Prediction
+## Machine Learning Course Project By NSU Wheatstone
 
 ## This project is a part of my first ever Machine Learning Course Project back in 2017. 
 
